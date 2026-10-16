@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../HW_5.Client/HW_5.Client.csproj" />
+  <Project Path="../HW_5.Server/HW_5.Server.csproj" />
+  <Project Path="HW_5.INFO.csproj" />
+</Solution>
